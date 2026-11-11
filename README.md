@@ -1,4 +1,4 @@
-### Hi, I'm Haris (`@harisherry`)
+### Hi, I'm Haris (`@herry`)
 
 **Systems & Desktop Software Engineer** building low-level Windows hardware utilities, direct USB HID device drivers, real-time telemetry compositors, and quantitative financial terminals.
 
